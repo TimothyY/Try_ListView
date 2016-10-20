@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Try_ListView</string>
+
+    <string-array name="listbuku">
+        <item>Harry Potter 1</item>
+        <item>Harry Potter 2</item>
+        <item>Harry Potter 3</item>
+        <item>Harry Potter 4</item>
+        <item>Harry Potter 5</item>
+        <item>Harry Potter 6</item>
+        <item>Harry Potter 7</item>
+    </string-array>
+</resources>
